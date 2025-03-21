@@ -4100,3 +4100,4 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 Третье изменение branch1
 Дополнительное изменение #1
 Дополнительное изменение #1
+Дополнительное изменение #2
