@@ -4099,3 +4099,4 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 Второе изменение branch1
 Третье изменение branch1
 Дополнительное изменение #1
+Дополнительное изменение #1
